@@ -20,6 +20,10 @@
   border-radius: 10px;
 }
 
+#jumbotron > h3 {
+  color: rgb(176, 117, 232);
+}
+
 form {
   border: solid 1px black;
   display: flex;
@@ -150,4 +154,8 @@ footer {
     height: auto;
     margin-right: 1rem;
   }
+}
+
+.weatherview {
+
 }
